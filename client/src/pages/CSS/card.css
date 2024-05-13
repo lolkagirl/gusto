@@ -1,0 +1,24 @@
+.cardStyle {
+  --bs-card-bg: none;
+  --bs-card-border-color: none;
+  --bs-card-inner-border-radius: none;
+  align-items: center;
+  /* margin-bottom: 55px; */
+}
+
+.nameItem {
+    color: #000;
+    text-align: center;
+    font-size: 1.5vw;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.priceItem {
+    color: #000;
+    font-size: 1.2vw;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

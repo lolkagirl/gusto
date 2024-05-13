@@ -1,0 +1,35 @@
+.footer {
+    margin: 3%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .footer-text {
+    color: #000;
+    text-align: center;
+    font-size: 1.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .contact {
+    text-align: center;
+  }
+  
+  .number {
+    text-align: center;
+  }
+  
+  .icon {
+    width: 3.4vw;
+    height: 3.4vw;
+    margin-right: 4vw;
+  }
+  
+  .time {
+    display: flex;
+    align-items: center;
+  }
